@@ -9,7 +9,6 @@ To perform **subdomain enumeration** on two targets:
 
 using the tools **Subfinder**, **Assetfinder**, and **Alterx**.
 
----
 
 ## 🛠️ Tools Used
 
@@ -17,7 +16,6 @@ using the tools **Subfinder**, **Assetfinder**, and **Alterx**.
 * **Assetfinder** – For quick and simple subdomain collection.
 * **Alterx** – For generating permutations/variations of discovered subdomains.
 
----
 
 ## 📌 Steps Performed
 
@@ -26,7 +24,6 @@ using the tools **Subfinder**, **Assetfinder**, and **Alterx**.
 3. Applied **Alterx** on collected results to generate possible subdomain variations.
 4. Saved results in text files for documentation and further testing.
 
----
 
 ## 📂 Output
 
