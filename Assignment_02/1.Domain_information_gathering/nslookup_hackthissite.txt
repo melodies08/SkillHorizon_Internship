@@ -1,0 +1,15 @@
+Server:		192.168.174.2
+Address:	192.168.174.2#53
+
+Non-authoritative answer:
+Name:	hackthissite.org
+Address: 137.74.187.104
+Name:	hackthissite.org
+Address: 137.74.187.101
+Name:	hackthissite.org
+Address: 137.74.187.100
+Name:	hackthissite.org
+Address: 137.74.187.103
+Name:	hackthissite.org
+Address: 137.74.187.102
+
