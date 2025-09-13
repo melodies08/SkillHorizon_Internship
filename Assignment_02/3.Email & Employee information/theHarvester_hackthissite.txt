@@ -1,0 +1,89 @@
+Read proxies.yaml from /etc/theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.8.2                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: hackthissite.org 
+
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for Hunter. 
+	Searching 0 results.
+[*] Searching Bing. 
+[*] Searching Brave. 
+An exception has occurred: 'utf-8' codec can't decode byte 0x92 in position 19926: invalid start byte
+[*] Searching Duckduckgo. 
+[*] Searching Yahoo. 
+[*] Searching Otx. 
+
+[*] IPs found: 33
+-------------------
+137.74.187.100
+137.74.187.101
+137.74.187.102
+137.74.187.103
+137.74.187.104
+137.74.187.133
+137.74.187.134
+137.74.187.137
+137.74.187.150
+137.74.187.151
+137.74.187.152
+137.74.187.153
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+185.24.222.13
+198.148.81.135
+198.148.81.136
+198.148.81.137
+198.148.81.138
+198.148.81.139
+198.148.81.140
+198.148.81.141
+198.148.81.142
+198.148.81.143
+198.148.81.144
+67.21.66.227
+67.21.66.228
+67.21.66.229
+67.21.66.230
+89.106.200.1
+89.41.169.49
+
+[*] Emails found: 1
+----------------------
+sam@hackthissite.org
+
+[*] No people found.
+
+[*] Hosts found: 16
+---------------------
+ctf.hackthissite.org
+data.hackthissite.org
+forum.hackthissite.org
+forums.hackthissite.org
+h5ai.hackthissite.org
+irc-v6.hackthissite.org
+irc.hackthissite.org
+legal.hackthissite.org
+lille.irc-v6.hackthissite.org
+lille.irc.hackthissite.org
+mirror.hackthissite.org
+qdb.hackthissite.org
+speedtest2.hackthissite.org
+status.hackthissite.org
+wolf.irc-v6.hackthissite.org
+wolf.irc.hackthissite.org
