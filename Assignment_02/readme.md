@@ -66,12 +66,12 @@ Open Source Intelligence gathering focused on the target's presence on public pl
 
 ***
 
-### 🔗 8. URLs & Leak Data in JS Files
+### 🔗 8. URLs & Leak Data in JS Files (Updated)
 
 The website's endpoints were collected and analyzed to identify technologies and potential information leaks.
 
 * **URL Collection:** A comprehensive list of URLs was collected, revealing the site's structure, various mission pages, forum links, and an official **Tor onion service**.
-* **JS File Analysis:** The site uses only **one primary JavaScript file**: `https://data.htscdn.org/js/jquery-1.8.1.min.js`. A scan for hardcoded secrets (API keys, credentials) in this file would be the next step. No secrets were identified from a simple review, but the file's age is a concern.
+* **JS File Analysis:** The site uses only one primary JavaScript file: `https://data.htscdn.org/js/jquery-1.8.1.min.js`. This file was scanned with the `jsleak` tool to find any hardcoded secrets (API keys, credentials). **The scan found no secrets**. The tool's output only showed some content-type strings as links, which is not a vulnerability.
 
 ***
 
