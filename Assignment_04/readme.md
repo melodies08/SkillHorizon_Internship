@@ -4,7 +4,7 @@ This report details the findings from a controlled, active reconnaissance scan c
 
 -----
 
-### \#\# 1. Host Discovery Results
+# 1. Host Discovery Results
 
 A preliminary Nmap ping scan was conducted to verify that the host was online and to identify its IP address.
 
@@ -14,7 +14,7 @@ A preliminary Nmap ping scan was conducted to verify that the host was online an
 
 -----
 
-### \#\# 2. Nmap Outputs
+# 2. Nmap Outputs
 
 Several Nmap scans were performed to build a detailed profile of the target machine.
 
@@ -62,7 +62,7 @@ No exact OS matches for host (test conditions non-ideal).
 
 -----
 
-### \#\# 3. Open Ports & Services
+# 3. Open Ports & Services
 
 Based on the full port scan, the following ports and services were identified:
 
@@ -77,7 +77,7 @@ All other 65,531 ports were found to be in a `filtered` state, meaning a firewal
 
 -----
 
-### \#\# 4. NSE Scripts Used and Findings
+# 4. NSE Scripts Used and Findings
 
 The `-sC` flag enabled the Nmap Scripting Engine (NSE) to run default scripts, which provided the following valuable information:
 
@@ -87,7 +87,7 @@ The `-sC` flag enabled the Nmap Scripting Engine (NSE) to run default scripts, w
 
 -----
 
-### \#\# 5. HTTP Enumeration Results (Dirb)
+# 5. HTTP Enumeration Results (Dirb)
 
 The `dirb` tool was used with the `common.txt` wordlist to discover directories and files on the web server.
 
@@ -101,7 +101,7 @@ The `dirb` tool was used with the `common.txt` wordlist to discover directories 
 
 -----
 
-### \#\# 6. Web Fingerprinting (WhatWeb & Nikto)
+# 6. Web Fingerprinting (WhatWeb & Nikto)
 
 #### **WhatWeb**
 
