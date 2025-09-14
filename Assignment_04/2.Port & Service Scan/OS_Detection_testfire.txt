@@ -1,0 +1,14 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-14 21:19 IST
+Nmap scan report for testfire.net (65.61.137.117)
+Host is up (0.23s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Actiontec MI424WR-GEN3I WAP (97%), DD-WRT v24-sp2 (Linux 2.4.37) (97%), Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012 (97%), Linux 3.2 (95%), Microsoft Windows XP SP3 (95%), VMware Player virtual NAT device (95%), Linux 4.4 (92%), BlueArc Titan 2100 NAS device (90%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 65.60 seconds
