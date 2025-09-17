@@ -18,7 +18,7 @@ The aim of this repo is to **document daily progress, practice tasks, tools used
 * Each **Assignment** has its own folder.
 * Inside each folder:
 
-  * `task.md` → Details of task, commands, outputs, and findings
+  * `task.md`/`readme.md` → Details of task, commands, outputs, and findings
   * `screenshots/` → Contains evidence/screenshots of execution
 
 
